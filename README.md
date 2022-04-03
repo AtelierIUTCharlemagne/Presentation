@@ -11,20 +11,28 @@
 
 ## Répartition du Travail :
 
-**API :**  
-Boulet Clément, Turlan Guillaume
+**Conception du schéma de la base de données :**  
+- Turlan Guillaume
+- Turlan Thilbaud
+
+**Conception de l'API :**  
+- Boulet Clément
+- Turlan Guillaume
+- Jules François
 
 **App Web :**  
-Tristan Blot
+- Tristan Blot
 
 **App Web Back Office :**  
-Turlan Thilbaud
+- Turlan Thilbaud
 
 **App Mobile Flutter :**  
-Jules François, Boulet Clément
+- Jules François
+- Boulet Clément
 
 **Déploiement des services :**  
-Boulet Clément, Turlan Thilbaud
+- Boulet Clément
+- Turlan Thilbaud
 
 ## Dates du projet : 
   Début : 21/03/2022
