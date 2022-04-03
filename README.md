@@ -6,9 +6,26 @@
   - Tristan Blot, https://github.com/blot32u
   - Jules François, https://github.com/phorcys-jules
   - Boulet Clément, https://github.com/Boulet-Clement
-  - Turlan Guillaume
-  - Turlan Thilbault
-  
+  - Turlan Guillaume, https://github.com/guillaume1415
+  - Turlan Thilbaud, https://github.com/ThibaudTurlan
+
+## Répartition du Travail :
+
+**API :**  
+Boulet Clément, Turlan Guillaume
+
+**App Web :**  
+Tristan Blot
+
+**App Web Back Office :**  
+Turlan Thilbaud
+
+**App Mobile Flutter :**  
+Jules François, Boulet Clément
+
+**Déploiement des services :**  
+Boulet Clément, Turlan Thilbaud
+
 ## Dates du projet : 
   Début : 21/03/2022
   Fin : 01/04/2022
