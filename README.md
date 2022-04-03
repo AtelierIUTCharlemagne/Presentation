@@ -6,6 +6,8 @@
   - Tristan Blot, https://github.com/blot32u
   - Jules François, https://github.com/phorcys-jules
   - Boulet Clément, https://github.com/Boulet-Clement
+  - Turlan Guillaume
+  - Turlan Thilbault
   
 ## Dates du projet : 
   Début : 21/03/2022
